@@ -10,7 +10,7 @@ thanks to my teacher and teammates(cjm,llx,zrr...lots of people giving me help).
 
 
 - 🔭 I’m currently working on Biostatistics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Single-cell Analysis
 - 👯 I’m looking to collaborate on sports, learning
 - 🤔 I’m looking for help with coding ability
 - 💬 Ask me about what I did
