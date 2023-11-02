@@ -12,8 +12,9 @@ thanks to my teacher and teammates(cjm,llx,zrr...lots of people giving me help).
 - 🔭 I’m currently working on Biostatistics
 - 🌱 I’m currently learning Single-cell Analysis
 - 👯 I’m looking to collaborate on sports, learning
+
 😁( •̀ ω •́ )✧🎈⚽🏀🏐🎱⛳🏓🀄
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jqy-vc&layout=compact&theme=tokyonight)
-- ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=jqy-vc&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jqy-vc&layout=compact&theme=tokyonight)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=jqy-vc&show_icons=true&theme=tokyonight)
 
